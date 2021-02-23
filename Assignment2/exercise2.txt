@@ -1,0 +1,13 @@
+Main differences between primitive "int" and class "Integer"
+- The primitive cannot do methods that are contained in the Integer class
+    so the flexibility and usefulness of the primitive type is contained
+    within only holding a 32-bit integer.
+
+Advantages of primitive "int"
+- Can use == and != with primitive types.
+- Simplicity and performance, if you only need to contain a number.
+
+Advantages of class "Integer"
+- Inherently contains a primitive int
+- Contains useful methods, such as converting int to String or vice verse,
+    even converting the int to a float, double, etc.
