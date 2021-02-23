@@ -1,4 +1,4 @@
-package Assignment2;
+//package Assignment2;
 
 /** Represents an Employee that is also a Person
  * @author Ian Chavez

@@ -1,4 +1,4 @@
-package Assignment2;
+//package Assignment2;
 
 /** Tests Animal and child classes for CS151 HW 2, Exercise 5
  * @author Ian Chavez

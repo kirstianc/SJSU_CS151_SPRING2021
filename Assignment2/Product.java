@@ -1,4 +1,4 @@
-package Assignment2;
+//package Assignment2;
 
 /** Immutable class which creates a Product
  * @author Ian Chavez

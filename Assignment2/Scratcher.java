@@ -1,4 +1,4 @@
-package Assignment2;
+//package Assignment2;
 
 /** Represents Scratcher behavior
  * @author Ian Chavez

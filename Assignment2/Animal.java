@@ -1,4 +1,4 @@
-package Assignment2;
+//package Assignment2;
 
 /** Represents an Animal
  * @author Ian Chavez

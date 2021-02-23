@@ -1,4 +1,4 @@
-package Assignment2;
+//package Assignment2;
 
 /** Used to test Employee class
  * @author Ian Chavez
